@@ -10,7 +10,8 @@ El desarrollo del bot se hará con python3. Así que lo primero es asegurarnos d
 
 ```bash
 bash$ sudo apt-get install -d python3 python3-dev
-bash$ sudo easy_install-3.4 pip
+sudo apt-get install python3-setuptools
+bash$ sudo easy_setup-3.4 pip
 ```
 
 Se pueden instalar las dependencias en un subdirectorio o en el sistema. Se recomienda el primer método para evitar problemas:
